@@ -18,7 +18,7 @@ A step-by-step guide to getting your development environment set up.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/MohdTalib-twenty/Optimite-Assignment.git
 
 # Navigate to the project directory
 cd your-repo
