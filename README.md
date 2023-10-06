@@ -3,10 +3,15 @@ It showcase the authentication and authorization of user by using jsonwebtoken &
 
 # Table of Contents
  : Project Structure
+ 
  : API Endpoints
+ 
  : Installation
+ 
  : Usage
+ 
  : Contributing
+ 
  : License
 
 
