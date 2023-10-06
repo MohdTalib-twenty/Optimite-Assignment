@@ -6,10 +6,9 @@ It showcase the authentication and authorization of user by using # jsonwebtoken
 
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Getting Started](#Getting Started)
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installation)
 
 ## Project Structure
 
