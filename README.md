@@ -18,18 +18,31 @@ It showcase the authentication and authorization of user by using jsonwebtoken &
 # Project Structure
 
 : index.js->: The main entry point of the application.
-Routes:
-: authRoutes.js-> Defines routes for user registration, login, and user info retrieval.
-: taskRoutes.js: Defines routes for creating, updating, deleting, and retrieving tasks.
+
+: Routes:
+
+         : authRoutes.js-> Defines routes for user registration, login, and user info retrieval.
+         
+         : taskRoutes.js: Defines routes for creating, updating, deleting, and retrieving tasks.
+         
 : Controllers:
+
           : authController.js-> Contains functions for user registration, login, and user info retrieval.
+          
           : taskControllers.js-> Contains functions for creating, updating, deleting, and retrieving tasks.
+          
 : Middlewares:
+
           : authMiddleware.js-> Middleware for user authentication.
+          
 : Models:
+
           : userModels.js-> Defines the User model.
+          
           : taskModels.js-> Defines the Task model.
+          
 : Config:
+
    :db.js-> Database configuration.
 
 : Other Dependencies-> Express, dotenv, cors, morgan, axios, bcryptjs, jsonwebtoken, randomstring, etc.
